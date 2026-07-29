@@ -36,7 +36,7 @@ L'entreprise **Sell4All**, spécialisée dans la vente de vêtements d'occasion 
    ```bash
    git clone https://github.com/Marindo-12/data-cleaning-sell4all
    cd data-cleaning-sell4all
-   ```
+
 
 2. Installer les dépendances
    ```bash
